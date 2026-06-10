@@ -1,0 +1,28 @@
+name: tradl
+channels:
+  - conda-forge
+  - pytorch
+dependencies:
+  - python=3.10
+  - pip
+  - pytorch
+  - pandas
+  - numpy
+  - tqdm
+  - soundfile
+  - jupyter
+  - matplotlib
+  - seaborn
+  - pip:
+      - transformers==4.48.2
+      - tokenizers==0.21.0
+      - sentencepiece>=0.1.99,<0.3
+      - huggingface-hub>=0.24,<1.0
+      - safetensors>=0.4.3
+      - sacrebleu>=2.4
+      - jiwer>=3.0
+      - evaluate>=0.4
+      - nltk>=3.8
+      - psutil>=5.9
+      - edge-tts>=7.2
+      - nest-asyncio>=1.6

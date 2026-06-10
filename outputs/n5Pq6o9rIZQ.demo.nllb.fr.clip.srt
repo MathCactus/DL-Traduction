@@ -1,0 +1,39 @@
+1
+00:00:00,000 --> 00:00:10,000
+Applaudissements
+
+2
+00:00:10,000 --> 00:00:18,000
+Au delà de notre système solaire, il existe des planètes qui gravitent autour d'autres étoiles.
+
+3
+00:00:18,000 --> 00:00:27,000
+On les appelle des exoplanètes, exoplanètes parce qu'elles sont en dehors du système solaire.
+
+4
+00:00:02,000 --> 00:00:02,200
+Comme vous pouvez l'imaginer,
+
+5
+00:00:05,880 --> 00:00:06,960
+il est vraiment difficile de les détecter parce qu'elles sont très loin de nous.
+
+6
+00:00:08,720 --> 00:00:09,760
+Et pourtant, régulièrement,
+
+7
+00:00:09,760 --> 00:00:11,600
+les astronomes
+
+8
+00:00:11,600 --> 00:00:14,360
+nous annoncent qu'ils ont découvert de nouvelles exoplanètes.
+
+9
+00:00:15,760 --> 00:00:17,760
+Il y a même une étude récente
+
+10
+00:00:18,560 --> 00:00:20,160
+qui suggère

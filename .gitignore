@@ -1,0 +1,54 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Données corpus (trop lourdes)
+data/fr-*/
+data/fr_fr/
+data/mtedx*/
+data/parallel/
+data/inputs/*.mp4
+data/inputs/*.flac
+data/inputs/*.wav
+data/inputs/*.mp3
+
+# Vidéos sources
+videos/
+*.mp4
+*.mkv
+
+# Fichiers audio générés / temporaires
+outputs/tmp_tts_blocks/
+outputs/*.mp3
+outputs/*.m4a
+outputs/*.mp4
+outputs/*.tts.*
+
+# Garder les SRT/VTT produits (légers, utiles en démo)
+!outputs/*.srt
+!outputs/*.vtt
+!outputs/*.txt
+
+# Environnements
+.env
+*.env
+.venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
